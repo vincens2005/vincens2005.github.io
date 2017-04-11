@@ -1,0 +1,15 @@
+https://vincens2005.github.io/
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title>S-H RSS</title>
+<link>https://vincens2005.github.io/</link>
+<description>Tis is basically just my RSS feed to use with my DAKboard.</description>
+<item>
+<title>Content Title</title>
+<link>https://vincens2005.github.io/rss.xml</link>
+<guid>https://vincens2005.github.io/rss.xml</guid>
+<pubDate>Tue, 11 Apr 2017 13:46:32 PST 
+</pubDate>
+<description>MyRss</description>
+</item></channel></rss>
