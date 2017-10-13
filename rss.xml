@@ -6,7 +6,8 @@
 <description>Tis is basically just my RSS feed to use with my DAKboard.</description>
 <item>
 <title>Joke of the day:</title>
-
+<link>https://vincens2005.github.io/rss.xml</link>		 +
+ <guid>https://vincens2005.github.io/rss.xml</guid>
 <pubDate>Tue, 11 Apr 2017 13:46:32 PST 
       </pubDate><description>Q:What do computers and air conditioners have in common? 
 A: They both become useless when you open WINDOWS!
