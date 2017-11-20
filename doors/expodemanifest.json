@@ -1,0 +1,22 @@
+{
+  "short_name": "Exploder",
+  "name": "Internet Exploder",
+  "icons": [
+    {
+      "src": "ex1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "ex2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "ex4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "home.png"
+}
