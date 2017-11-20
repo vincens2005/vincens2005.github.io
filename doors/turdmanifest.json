@@ -1,0 +1,22 @@
+{
+  "short_name": "Turd",
+  "name": "TinySoft Turd",
+  "icons": [
+    {
+      "src": "tu1x.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "tu2x.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "tu4x.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "turd.html"
+}
