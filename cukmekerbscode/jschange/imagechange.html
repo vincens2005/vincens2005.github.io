@@ -1,0 +1,10 @@
+<title>Changing Imnage</title>
+<script>
+function scrib(){
+document.getElementById('cool').setAttribute('src','image2.png');
+}
+function unscrib(){
+document.getElementById('cool').setAttribute('src','image1.png');
+}
+</script>
+<img src='image1.png' id='cool' onmouseover='scrib()' onmouseout='unscrib()'>
