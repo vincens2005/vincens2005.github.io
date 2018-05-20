@@ -1,0 +1,8 @@
+sample :ambi_lunar_land
+live_loop :foo do
+  sample :ambi_drone
+  play 64
+  sleep 1
+  play 63
+  sleep 1
+end
